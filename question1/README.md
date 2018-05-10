@@ -11,3 +11,7 @@ Provide and print out 3 examples to show that your function is working as intend
 Compile Steps: 
 
 Output:
+Min: 1 Max: 5
+Min: 3 Max: 7
+Min: 1 Max: 7
+
